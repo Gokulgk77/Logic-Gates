@@ -15,3 +15,7 @@ XOR GATE
 OUTPUT
 NAND GATE
 ![Image](https://github.com/user-attachments/assets/dcca2f35-da5b-4c84-bf2b-35c8217d7a88)
+
+OUTPUT
+NOR GATE
+![Image](https://github.com/user-attachments/assets/72f6939b-269b-45c7-8d07-04ec9f8f30b8)
