@@ -23,3 +23,7 @@ NOR GATE
 OUTPUT
 XNOR GATE
 ![Image](https://github.com/user-attachments/assets/201d9be5-5427-408f-b468-a3f9a64d4ad7)
+
+OUTPUT
+NOT GATE
+![Image](https://github.com/user-attachments/assets/de64837a-99e2-4744-aefd-f652de978699)
