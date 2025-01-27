@@ -19,3 +19,7 @@ NAND GATE
 OUTPUT
 NOR GATE
 ![Image](https://github.com/user-attachments/assets/72f6939b-269b-45c7-8d07-04ec9f8f30b8)
+
+OUTPUT
+XNOR GATE
+![Image](https://github.com/user-attachments/assets/201d9be5-5427-408f-b468-a3f9a64d4ad7)
