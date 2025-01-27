@@ -6,3 +6,4 @@ AND GATE
 
 OUTPUT
 OR GATE
+![Image](https://github.com/user-attachments/assets/cf6a9ab9-e3e1-4b14-8b90-8f24ea456fab)
